@@ -4,5 +4,6 @@
         "cpus": 4,
         "memory": "8gb",
         "storage": "32gb"
- }
+ },
+    "runArgs": ["--privileged"]
 }
